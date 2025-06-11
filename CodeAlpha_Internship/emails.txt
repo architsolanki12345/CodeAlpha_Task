@@ -1,0 +1,7 @@
+rahul.mehta@example.com
+priya_sharma1998@gmail.com
+support@techhub.in
+sales123@business.org
+admin@college.edu
+test.user1@abc.com
+backup_email@xyz.net

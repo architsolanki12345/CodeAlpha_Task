@@ -1,0 +1,13 @@
+Hello there!
+
+Please contact the following team members:
+
+- Rahul Mehta: rahul.mehta@example.com
+- Priya Sharma: priya_sharma1998@gmail.com
+- Technical Support: support@techhub.in
+- Sales: sales123@business.org
+- Admin: admin@college.edu
+
+Also, CC to: test.user1@abc.com and backup_email@xyz.net
+
+This file is just a test for email extraction script. Thanks!
